@@ -1,0 +1,6 @@
+{
+
+  "ConnectionStrings": {
+    "Test": "server=MSI\\KHANHDUY;database=BirdFarmShop;user=sa;password=12345;Integrated Security=true;TrustServerCertificate=Yes"
+  }
+}
